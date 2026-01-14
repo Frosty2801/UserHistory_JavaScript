@@ -40,3 +40,16 @@ Un evento es algo que sucede en la página y que JavaScript puede detectar.
 ✅ Cargar la página
 ✅ Mover el mouse
 ✅ Presionar una tecla
+
+# InnerHtml: Modifica o lee el contenido html interno de un elemento.
+✔️ Interpreta etiquetas
+❌ Puede ser peligroso si se usa mal
+
+
+
+
+
+
+
+
+
