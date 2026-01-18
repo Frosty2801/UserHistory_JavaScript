@@ -18,19 +18,19 @@
 
  - Lógicos (&&, ||, !)
 
-- Comentarios (//, /* */)
+Comentarios (//, /* */)
 
-- Conversión de tipos (casting)
+Conversión de tipos (casting)
 
 ## 🔀 Control de flujo
 
-- Condicionales
+# Condicionales
 
 - if, else, else if
 
 - switch
 
-- Bucles
+# Bucles
 
 - for
 
@@ -42,7 +42,7 @@
 
 - for...in
 
-- break y continue
+break y continue
 
 ## 📦 Funciones
 
@@ -66,7 +66,7 @@
 
 - Acceso a elementos
 
-- Métodos importantes
+# Métodos importantes
 
 - push, pop, shift, unshift
 
@@ -74,7 +74,7 @@
 
 - find, includes, sort
 
-- Iteración de arrays
+Iteración de arrays
 
 ## 🧩 Objetos
 
@@ -94,7 +94,7 @@
 
 - ¿Qué es el DOM?
 
-- Selección de elementos
+# Selección de elementos
 
 - getElementById
 
@@ -110,9 +110,9 @@
 
 - style
 
-- Crear y eliminar elementos
+Crear y eliminar elementos
 
-- Eventos
+# Eventos
 
 - addEventListener
 
