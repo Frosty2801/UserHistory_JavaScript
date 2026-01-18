@@ -6,17 +6,17 @@
 
 # Tipos de datos
 
- - Primitivos: string, number, boolean, null, undefined, symbol
+  - Primitivos: string, number, boolean, null, undefined, symbol
 
- - No primitivos: object, array, function
+  - No primitivos: object, array, function
 
 # Operadores
 
--- Aritméticos (+, -, *, /, %)
+ - Aritméticos (+, -, *, /, %)
 
--- Comparación (==, ===, !=, !==)
+ - Comparación (==, ===, !=, !==)
 
--- Lógicos (&&, ||, !)
+ - Lógicos (&&, ||, !)
 
 - Comentarios (//, /* */)
 
