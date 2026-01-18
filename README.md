@@ -1,181 +1,173 @@
-🧠 Fundamentos de JavaScript
+## 🧠 Fundamentos de JavaScript
 
-¿Qué es JavaScript y para qué sirve?
+- ¿Qué es JavaScript y para qué sirve?
 
-Variables (var, let, const)
+- Variables (var, let, const)
 
-Tipos de datos
+# Tipos de datos
 
-Primitivos: string, number, boolean, null, undefined, symbol
+ - Primitivos: string, number, boolean, null, undefined, symbol
 
-No primitivos: object, array, function
+ - No primitivos: object, array, function
 
-Operadores
+# Operadores
 
-Aritméticos (+, -, *, /, %)
+-- Aritméticos (+, -, *, /, %)
 
-Comparación (==, ===, !=, !==)
+-- Comparación (==, ===, !=, !==)
 
-Lógicos (&&, ||, !)
+-- Lógicos (&&, ||, !)
 
-Comentarios (//, /* */)
+- Comentarios (//, /* */)
 
-Conversión de tipos (casting)
+- Conversión de tipos (casting)
 
-🔀 Control de flujo
+## 🔀 Control de flujo
 
-Condicionales
+- Condicionales
 
-if, else, else if
+- if, else, else if
 
-switch
+- switch
 
-Bucles
+- Bucles
 
-for
+- for
 
-while
+- while
 
-do...while
+- do...while
 
-for...of
+- for...of
 
-for...in
+- for...in
 
-break y continue
+- break y continue
 
-📦 Funciones
+## 📦 Funciones
 
-Declaración de funciones
+- Declaración de funciones
 
-Funciones con parámetros y retorno
+- Funciones con parámetros y retorno
 
-Funciones anónimas
+- Funciones anónimas
 
-Arrow functions (=>)
+- Arrow functions (=>)
 
-Scope (global, local, bloque)
+- Scope (global, local, bloque)
 
-Closures (concepto clave)
+- Closures (concepto clave)
 
-Funciones callback
+- Funciones callback
 
-📚 Arrays
+## 📚 Arrays
 
-Creación de arrays
+- Creación de arrays
 
-Acceso a elementos
+- Acceso a elementos
 
-Métodos importantes
+- Métodos importantes
 
-push, pop, shift, unshift
+- push, pop, shift, unshift
 
-map, filter, reduce
+- map, filter, reduce
 
-find, includes, sort
+- find, includes, sort
 
-Iteración de arrays
+- Iteración de arrays
 
-🧩 Objetos
+## 🧩 Objetos
 
-Creación de objetos
+- Creación de objetos
 
-Propiedades y métodos
+- Propiedades y métodos
 
-Notación punto vs corchetes
+- Notación punto vs corchetes
 
-this
+- this
 
-Desestructuración de objetos
+- Desestructuración de objetos
 
-Objetos anidados
+- Objetos anidados
 
-🌐 DOM (Document Object Model)
+## 🌐 DOM (Document Object Model)
 
-¿Qué es el DOM?
+- ¿Qué es el DOM?
 
-Selección de elementos
+- Selección de elementos
 
-getElementById
+- getElementById
 
-querySelector / querySelectorAll
+- querySelector / querySelectorAll
 
-Manipulación del DOM
+- Manipulación del DOM
 
-textContent
+- textContent
 
-innerHTML
+- innerHTML
 
-classList
+- classList
 
-style
+- style
 
-Crear y eliminar elementos
+- Crear y eliminar elementos
 
-Eventos
+- Eventos
 
-addEventListener
+- addEventListener
 
-Eventos comunes (click, input, submit)
+- Eventos comunes (click, input, submit)
 
-⏳ Asincronía
+# ⏳ Asincronía
 
-Callbacks
+- Callbacks
 
-Promesas (Promise)
+- Promesas (Promise)
 
-async / await
+- async / await
 
-setTimeout y setInterval
+- setTimeout y setInterval
 
-Fetch API (peticiones HTTP)
+- Fetch API (peticiones HTTP)
 
-🧪 Manejo de errores
+# 🧪 Manejo de errores
 
-try...catch
+- try...catch
 
-throw
+- throw
 
-Errores comunes en JS
+- Errores comunes en JS
 
-💾 Almacenamiento en el navegador
+# 💾 Almacenamiento en el navegador
 
-localStorage
+- localStorage
 
-sessionStorage
+- sessionStorage
 
-Cookies (concepto general)
+- Cookies (concepto general)
 
-⚙️ JavaScript en el navegador
+# ⚙️ JavaScript en el navegador
 
-window
+- window
 
-document
+- document
 
-navigator
+- navigator
 
-location
+- location
 
-🚀 Conceptos intermedios / avanzados
+# 🚀 Conceptos intermedios / avanzados
 
-Hoisting
+- Hoisting
 
-Event bubbling y capturing
+- Event bubbling y capturing
 
-JSON (JSON.parse, JSON.stringify)
+- JSON (JSON.parse, JSON.stringify)
 
-Modularización (import, export)
+- Modularización (import, export)
 
-Spread operator (...)
+- Spread operator (...)
 
-Rest parameters
+- Rest parameters
 
-Programación funcional (conceptos básicos)
-
-
-
-
-
-
-
-
+- Programación funcional (conceptos básicos)
