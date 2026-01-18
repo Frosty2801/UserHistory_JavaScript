@@ -1,50 +1,176 @@
-## CONCEPTOS JAVASCRIPT ##
+🧠 Fundamentos de JavaScript
 
-# ESTRUCTURAS DE DATOS:
-# Arrays: Lista ordenada de elementos, caracteristicas:
-✅ Pueden guardar muchos valores
-✅ Acceso por índice ([0])
-✅ Mantienen el orden
-✅ Muy usados para listas dinámicas
+¿Qué es JavaScript y para qué sirve?
 
-# Map: 
-Es una estructura clave–valor, como un objeto, pero más potente.
-✅ Claves pueden ser cualquier tipo
-✅ Mejor rendimiento en grandes datos
-✅ Mantiene el orden de inserción
+Variables (var, let, const)
 
-# DOM (Document object model): 
-Es la representacion del html como un arbol de objetos que se puede leer y modificar,
-El DOM es el puente entre JavaScript y HTML. JavaScript no toca el HTML directamente, controla el DOM,
-y el DOM actualiza lo que el usuario ve, es importante porque permite:
-✅ Leer información del HTML
-✅ Cambiar textos
-✅ Crear o eliminar elementos
-✅ Escuchar eventos (click, submit, etc.)
-✅ Actualizar la página sin recargar
+Tipos de datos
 
-# getDocumentById: 
-Esto es para traer solo un elemento del html por el id.
+Primitivos: string, number, boolean, null, undefined, symbol
 
-# ArrowFunction (=>): 
-Hace lo mismo que una función normal, pero con menos código y reglas especiales, sirve para:
-✅ Ejecutar código
-✅ Retornar valores
-✅ Manejar eventos
-✅ Trabajar con arrays (map, filter, forEach)
+No primitivos: object, array, function
 
-# Eventos en JS (addEventListener):
-Un evento es algo que sucede en la página y que JavaScript puede detectar.
-✅ Escribir en un input
-✅ Enviar un formulario
-✅ Cargar la página
-✅ Mover el mouse
-✅ Presionar una tecla
+Operadores
 
-# InnerHtml: Modifica o lee el contenido html interno de un elemento.
-✔️ Interpreta etiquetas
-❌ Puede ser peligroso si se usa mal
+Aritméticos (+, -, *, /, %)
 
+Comparación (==, ===, !=, !==)
+
+Lógicos (&&, ||, !)
+
+Comentarios (//, /* */)
+
+Conversión de tipos (casting)
+
+🔀 Control de flujo
+
+Condicionales
+
+if, else, else if
+
+switch
+
+Bucles
+
+for
+
+while
+
+do...while
+
+for...of
+
+for...in
+
+break y continue
+
+📦 Funciones
+
+Declaración de funciones
+
+Funciones con parámetros y retorno
+
+Funciones anónimas
+
+Arrow functions (=>)
+
+Scope (global, local, bloque)
+
+Closures (concepto clave)
+
+Funciones callback
+
+📚 Arrays
+
+Creación de arrays
+
+Acceso a elementos
+
+Métodos importantes
+
+push, pop, shift, unshift
+
+map, filter, reduce
+
+find, includes, sort
+
+Iteración de arrays
+
+🧩 Objetos
+
+Creación de objetos
+
+Propiedades y métodos
+
+Notación punto vs corchetes
+
+this
+
+Desestructuración de objetos
+
+Objetos anidados
+
+🌐 DOM (Document Object Model)
+
+¿Qué es el DOM?
+
+Selección de elementos
+
+getElementById
+
+querySelector / querySelectorAll
+
+Manipulación del DOM
+
+textContent
+
+innerHTML
+
+classList
+
+style
+
+Crear y eliminar elementos
+
+Eventos
+
+addEventListener
+
+Eventos comunes (click, input, submit)
+
+⏳ Asincronía
+
+Callbacks
+
+Promesas (Promise)
+
+async / await
+
+setTimeout y setInterval
+
+Fetch API (peticiones HTTP)
+
+🧪 Manejo de errores
+
+try...catch
+
+throw
+
+Errores comunes en JS
+
+💾 Almacenamiento en el navegador
+
+localStorage
+
+sessionStorage
+
+Cookies (concepto general)
+
+⚙️ JavaScript en el navegador
+
+window
+
+document
+
+navigator
+
+location
+
+🚀 Conceptos intermedios / avanzados
+
+Hoisting
+
+Event bubbling y capturing
+
+JSON (JSON.parse, JSON.stringify)
+
+Modularización (import, export)
+
+Spread operator (...)
+
+Rest parameters
+
+Programación funcional (conceptos básicos)
 
 
 
