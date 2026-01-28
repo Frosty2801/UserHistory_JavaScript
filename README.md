@@ -1,4 +1,5 @@
 ## 🧠 Fundamentos de JavaScript
+CONSOLE LOG A UN EVENTO ANTES DE USARLO PARA SABER QUE CONTIENE Y COMO USARLO
 
 - ¿Qué es JavaScript y para qué sirve?
 
